@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ela-lisondra
 - 👀 I’m interested in culture, theatre, food, people, travel, adventure
 - 🌱 I’m currently learning fullstack software development and aerial hoop =D
-- 💞️ I’m looking to collaborate on anything that interests me really
+- 💞️ I’m looking to collaborate on anything that interests me and will improve my skill
 - 📫 How to reach me - elalisondra - twitter
 
 <!---
